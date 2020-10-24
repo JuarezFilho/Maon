@@ -1,0 +1,39 @@
+.exemplo {
+	
+	font-size: 70px ;
+	padding: 0px ;
+	margin: 20px;
+	
+	font-family:"Comic Sans MS";
+	color:#8B4500; text-shadow:#000 1px -1px, #000 -1px 1px, #000 1px 1px, #000 -1px -1px
+	
+
+}
+
+
+#texto {
+position: center;
+margin-top: -150px;
+text-align: center ;
+}
+
+body {
+background-image: url("download.jpg") ;
+background-size: cover;
+background-repeat: no-repeat ;
+color: white;
+}
+
+h1 {
+	color: white ;
+}
+	
+text-color { 
+color: white ;
+}	
+
+p{
+	font-size: 14px ;
+	font-family: Comic Sans MS ;
+}
+
